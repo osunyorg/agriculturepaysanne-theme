@@ -1,0 +1,14 @@
+theme: osuny
+_merge: deep
+params:
+  breadcrumb:
+    position: after-hero
+  home:
+    head:
+      title: site
+  logo:
+    footer: '/assets/images/flower.svg'
+  search:
+    active: true
+  summary:
+    position: hero
